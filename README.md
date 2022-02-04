@@ -15,11 +15,6 @@
 
 - a responsive design Social proof section
 
-## Links
-
-- Solution **URL**: [solution URL](https://github.com/momenkamal221/nft-preview-card-component-main.git)
-- Live Site URL: [live site URL](https://momenkamal221.github.io/nft-preview-card-component-main/)
-
 ## Built with
 
 - Flexbox
@@ -31,3 +26,6 @@
 - building grid layouts
 
 ## my latest challenges
+If you did not give a feedback on one of my latest challenges, please 🙏 I will be glad to see it ❤..
+[NFT preview card component](https://www.frontendmentor.io/solutions/nftpreviewcardcomponentmain-zklypwzp2)  
+[Profile card component](https://www.frontendmentor.io/solutions/profile-card-component-rS34eclxk) 
