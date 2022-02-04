@@ -2,7 +2,7 @@
 >
 <p align="center"><img src="challenge.gif"></p>
 
-> <h2 align="center">🔴<a href=""> life </a>&emsp;&emsp;☕<a href=""> solution </a></h2>
+> <h2 align="center">🔴<a href=""> life </a>&emsp;&emsp;☕<a href="https://github.com/momenkamal221/social-proof-section-master"> solution </a></h2>
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
