@@ -26,6 +26,6 @@
 - building grid layouts
 
 ## my latest challenges
-If you did not give me feedback on one of my latest challenges, please feel free to give feedback 🙏, I will be glad to see it ❤.  
+If you did not give me feedback on one of my latest challenges, please feel free to give feedback, I will be glad to see it ❤.  
 - [NFT preview card component](https://www.frontendmentor.io/solutions/nftpreviewcardcomponentmain-zklypwzp2)
 - [Profile card component](https://www.frontendmentor.io/solutions/profile-card-component-rS34eclxk)
